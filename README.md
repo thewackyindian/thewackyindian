@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Raj Karan Singh
-- 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning mental peace
-- 💞️ I’m looking to collaborate on nothing.
+- 👋 Hi, I’m Raj Karan Singh Chhabra
+- 👀 I’m interested in Competitive Programming & Web Technologies
+- 🌱 I’m currently learning Go Api
+- 💞️ I’m looking to collaborate on 3iOj.
 - 📫 How to reach me thewackyindian@gmail.com
 
 <!---
